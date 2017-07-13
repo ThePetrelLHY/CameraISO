@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraISO</string>
+    <string name="failed_to_access_external_storage">喔唷！好像暂时不能写入文件呢！</string>
+    <string name="failed_to_access_camere">喔唷！你居然没有相机！</string>
+    <string name="start_capturing_msg">开始保存</string>
+    <string name="touch_back_again_to_exit">再按一次返回键退出</string>
+    <string name="stop_capturing_msg">正在停止保存</string>
+</resources>
